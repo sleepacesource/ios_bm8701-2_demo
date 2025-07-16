@@ -1,0 +1,6 @@
+framework module BM8701_2 {
+  umbrella header "BM8701_2.h"
+  export *
+
+  module * { export * }
+}
